@@ -9,6 +9,6 @@ export default function Home() {
       pageName="Hello Gatsby!"
     />
     <p>What a strange world. Enjoy a random photo via unsplash:</p>
-    <img src="https://source.unsplash.com/random"></img>
+    <img src="https://source.unsplash.com/featured/?puppy"></img>
   </div>
 }
