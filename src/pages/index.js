@@ -6,9 +6,9 @@ export default function Home() {
   return <div style={{ color: 'darkolivegreen' }}>
     <Link to="/contact/">Contact</Link>
     <Header
-      pageName="Hello Gatsby"
+      pageName="Hello Gatsby!"
     />
-    <p>What a world.</p>
-    <img src="https://source.unsplash.com/ngqyo2AYYnE"></img>
+    <p>What a strange world. Enjoy a random photo via unsplash:</p>
+    <img src="https://source.unsplash.com/random"></img>
   </div>
 }
